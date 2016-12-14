@@ -1,2 +1,2 @@
 # ITextSharpExploration
-This repo contains some exploration with ITextSharp library
+This repo contains some explorations with ITextSharp library
